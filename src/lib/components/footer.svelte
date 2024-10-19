@@ -83,7 +83,7 @@
           </FooterLinkGroup>
         </div>
       </div>
-=======
+<!-- =======
   <div
     class="grid grid-cols-2 gap-8 pt-12 px-6 md:grid-cols-4 place-content-center bg-black"
   >
@@ -183,6 +183,6 @@
         /></FooterIcon
       >
 
-    </div>
+    </div>-->
   </div>
 </Footer>
