@@ -49,7 +49,7 @@
             <FooterLink href="/">About</FooterLink>
             <FooterLink href="https://forum.magnimont.com">Forum</FooterLink>
             <FooterLink href="https://host.magnimont.com">Hosting</FooterLink>
-            <FooterLink href="/">Career</FooterLink>
+            <FooterLink href="/careers">Careers</FooterLink>
           </FooterLinkGroup>
         </div>
 
